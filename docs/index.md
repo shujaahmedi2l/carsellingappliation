@@ -2,6 +2,7 @@
 
 ## Project Structure
 
+
 ├── app.js
 ├── views/
 │ ├── css/
@@ -9,6 +10,7 @@
 │ ├── index.html
 │ └── sharks.html
 ├── package.json
+└── README.md
 
 
 ## Description
