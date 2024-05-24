@@ -2,7 +2,6 @@
 
 ## Project Structure
 
-nodejs-express-project/
 ├── app.js
 ├── views/
 │ ├── css/
@@ -10,7 +9,6 @@ nodejs-express-project/
 │ ├── index.html
 │ └── sharks.html
 ├── package.json
-└── README.md
 
 
 ## Description
