@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: "shujaahmedi2l/CarSellingApplication"
     argocd/app-name: "CarSellingApplication"
+    backstage.io/techdocs-ref: dir:.
   links:
     - url: https://car-selling-application.onexidp.com.onexidp.com
       title: Web Application
